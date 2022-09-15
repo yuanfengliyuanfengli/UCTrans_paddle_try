@@ -1,5 +1,5 @@
-本项目用于百度飞浆兴智杯论文复现比赛
-this project is used for Baidu Paddle "XING ZHI BEI"  paper reproductionCompetition 
+本项目用于百度飞浆兴智杯论文复现比赛 http://www.aiinnovation.com.cn/
+this project is used for Baidu Paddle "XING ZHI BEI"  paper reproductionCompetition http://www.aiinnovation.com.cn/
 
 本项目仍然不能运行，bug仍未修复完毕，还要进一步修改
 this project can not run now,having bugs to fix
